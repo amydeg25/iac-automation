@@ -10,4 +10,3 @@ variable "clusterName" {
   default     = "gitopsamy-eks"
 }
 
-## Testing Workflow
